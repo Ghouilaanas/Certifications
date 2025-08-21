@@ -3,6 +3,7 @@ This section highlights my professional certifications in Software Testing and A
 
 ## 🔹Foundations of Software Testing and Validation
 Issued by University of Leeds (Coursera), Oct 2023
-Covers key principles of software testing, validation methods, and quality assurance techniques. Demonstrates proficiency in applying systematic testing strategies to ensure reliable and efficient software.
+- Covers key principles of software testing, validation methods, and quality assurance techniques.
+- Demonstrates proficiency in applying systematic testing strategies to ensure reliable and efficient software.
 
 
