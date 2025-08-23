@@ -10,5 +10,6 @@ Issued by University of Leeds (Coursera), Oct 2023
 
 ## 🔹Scrum Fundamentals Certified (SFC™) – SCRUMstudy
 Certified on: October 27, 2023  
-Successfully completed the Scrum Fundamentals Certified program by SCRUMstudy, demonstrating a solid understanding of Scrum principles, roles, and processes. This certification validates foundational knowledge in Agile project management and the Scrum framework, including key concepts.
-This achievement reflects a commitment to continuous learning and expanding knowledge in modern project management methodologies and structured team workflows.
+Successfully completed the Scrum Fundamentals Certified program by SCRUMstudy, demonstrating a solid understanding of Scrum principles, roles, and processes. 
+- This certification validates foundational knowledge in Agile project management and the Scrum framework, including key concepts.
+- This achievement reflects a commitment to continuous learning and expanding knowledge in modern project management methodologies and structured team workflows.
